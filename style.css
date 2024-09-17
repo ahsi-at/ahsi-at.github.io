@@ -1,0 +1,339 @@
+body {
+    margin: 0%;
+
+
+
+
+}
+
+article {
+    margin: 0px 10px ;
+}
+
+
+ /* header */
+body > header {
+    background-color: rgba(146, 83, 6, 0.489);
+    margin-top: 0%;
+    padding-top: 10px;
+
+
+}
+#logo {
+    color: black;
+    display: block;
+    text-align: center;
+    /* font-style: oblique; */
+
+    margin: 0px 0px 10px 0px;
+    border: 3px dotted black;
+
+
+
+}
+
+.image-contianer {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+}
+.gotham {
+    width: 100%;
+    height: auto;
+}
+
+.second_h1 {
+    display: block;
+    text-align: center;
+    /* font-style: oblique; */
+    color: black;
+    margin: 10px 0px 10px 0px;
+    font-family: fantasy;
+
+
+}
+
+
+body >  header {
+      background-image: url("https://www.pngkey.com/png/full/48-483197_free-chicago-skyline-silhouette-png-gotham-city-skyline.png");
+
+}
+
+header > nav > ul > li {
+    text-decoration: none;
+    list-style: none;
+    padding: 0px 20px;
+    font-size: 15px;
+
+
+}
+.navbutton{
+    text-decoration: none;
+    border: 2px solid darkred;
+    color: black;
+    padding: 2px;
+    font-weight: bold;
+
+}
+
+
+#nav-ul {
+    display: flex;
+    padding: 20px;
+    margin: 30px;
+    justify-content: center;
+}
+ header
+
+
+/* FORM YES/NO */
+
+form{
+    display: block;
+    background-color: blanchedalmond;
+    margin: 100px;
+
+}
+
+#hj {
+    font-style: oblique;
+}
+
+
+.labell{
+    background-color: aqua;
+    list-style: none;
+   color: red;
+   text-decoration: none;
+   border: 3px solid black;
+   padding: 20px;
+   justify-content: space-around;
+}
+#buttongh {
+
+    background-color: none;
+    display: block;
+    margin-right: 30%;
+    margin-left: 30%;
+    align-items: center;
+    transition: opacity 0.5s ease;
+}
+.button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+
+
+  .button1 {
+    background-color: #b8700b;
+
+    /* border: 3px solid black; */
+    border-radius: 788px;
+    border-style: ridge;
+    border-color: black;
+
+  }
+
+ .button2 {
+    background-color: #b8700b;
+    /* border: 3px solid black; */
+    border-style: ridge;
+    border-color: black;
+    border-radius: 788px;
+
+}
+
+/* .button-button1 {
+    color: red;
+    border: darkkhaki;
+    justify-content: right;
+
+} */
+
+
+.container {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+}
+
+
+
+/* .character-option {  */
+
+  /* justify-content: space-between; */
+  /* text-align: center; */
+  /* background-color: red; */
+  /* border-radius: 30px; */
+  /* padding: 10px 20px; */
+  /* display: inline-block; */
+  /* cursor: pointer; */
+  /* transition: background-color 0.3s; */
+/*  */
+/*
+.character-option :hover {
+    background-color: grey;
+}
+
+form > input {
+    visibility: hidden;
+} */
+
+body {
+    background-image: url("https://www.ultraimagehub.com/wallpapers/tr:flp-false,gx-0.7,gy-0.7,q-75,rh-3264,rw-5824,th-1080,tw-1920/1242014211912241212.jpeg");
+}
+
+
+/*  footer */
+
+/* body > footer { */
+
+
+#choose {
+    /* display: inline-block; */
+    text-align: center;
+    color: black;
+    /* justify-content: center; */
+    margin: 20px 50px;
+    text-wrap: wrap;
+    background-color: rgba(146, 83, 6, 0.489);
+    text-shadow: 3px 0px 1px rgba(164, 76, 4, 0.326)
+
+
+}
+
+/* .sm-img {
+    float: right;
+    margin-right: 115px;
+    width: 200px;
+    height: 1300px;
+    align-content: center;
+    max-width: 320px;
+
+} */
+
+
+footer > h2 {
+    color: white;
+    text-align: center;
+    border: #fff;
+    border-style: ridge;
+
+}
+
+
+
+
+
+footer> nav > ul> li > a {
+    text-decoration: none;
+    color: white;
+
+
+
+}
+
+footer > nav > ul> li {
+    display: flex;
+    list-style:  none;
+    justify-content: space-around;
+
+}
+
+footer > nav > ul > li > a:hover {
+    background-color:  rgba(146, 83, 6, 0.489);
+    padding: 2px;
+}
+
+footer {
+    background-color: rgba(146, 83, 6, 0.489);
+
+    padding: 10px;
+
+}
+
+
+/*  choose your character */
+
+
+.wrapper {
+    margin: 150px auto;
+    width: 70%;
+
+
+}
+
+.wrapper :hover  {
+    background-color: rgba(209, 125, 22, 0.489);
+    border: 0.5px solid white;
+}
+
+.text-box h2 {
+    color: white;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.text-box {
+
+    background-color: rgba(146, 83, 6, 0.489);
+    padding: 10px;
+}
+
+
+
+
+.text-box p{
+    color: white;
+    border: none;
+}
+
+.superman-img {
+    max-width: 320px;
+    float: left;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+#jpimg {
+    width: 100%;
+    margin: auto;
+  }
+
+  .superman-img {
+    width: 100%;
+    height: auto;
+  }
+.batman-img {
+    height: 200px;
+    width: 320px;
+    float: left;
+    border: 5px solid #fff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+ 
+
+    }
+
+.aquaman-img {
+    max-width: 320px;
+    float: left;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+
+}
